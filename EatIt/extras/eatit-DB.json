@@ -1,0 +1,38 @@
+{
+  "Category": {
+    "01": {
+      "Name": "Burgers",
+      "Image": "https://images.unsplash.com/photo-1550547660-d9450f859349?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=701&q=80"
+    },
+    "02": {
+      "Name": "Fries",
+      "Image": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60"
+    },
+    "03": {
+      "Name": "Pizza",
+      "Image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60"
+    },
+    "04": {
+      "Name": "Pasta",
+      "Image": "https://images.unsplash.com/photo-1473093226795-af9932fe5856?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60"
+    },
+    "05": {
+      "Name": "Soup",
+      "Image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60"
+    }
+  },
+  "User" : {
+    "0988123344" : {
+      "Name" : "Eddydn",
+      "Password" : "1234"
+    },
+    "0988123355" : {
+      "Name" : "EddyLEe",
+      "Password" : "1234"
+    },
+    "0988123388" : {
+      "name" : "Tom Cruise",
+      "password" : "1234"
+    }
+  }
+}

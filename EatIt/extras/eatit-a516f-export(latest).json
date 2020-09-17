@@ -1,0 +1,240 @@
+{
+  "Category" : {
+    "01" : {
+      "Image" : "https://i.ibb.co/4tzdgPg/Burgers.jpg",
+      "Name" : "Burgers"
+    },
+    "02" : {
+      "Image" : "https://i.ibb.co/K2ry0Rc/Fries.jpg",
+      "Name" : "Fries"
+    },
+    "03" : {
+      "Image" : "https://i.ibb.co/5h8kXGQ/Pizza.jpg",
+      "Name" : "Pizza"
+    },
+    "04" : {
+      "Image" : "https://i.ibb.co/tCvL0rx/Pasta.jpg",
+      "Name" : "Pasta"
+    },
+    "05" : {
+      "Image" : "https://i.ibb.co/Lg26dhZ/Soup.jpg",
+      "Name" : "Soup"
+    }
+  },
+  "User" : {
+    "0988123344" : {
+      "Name" : "Eddydn",
+      "Password" : "1234"
+    },
+    "0988123355" : {
+      "Name" : "EddyLEe",
+      "Password" : "1234"
+    },
+    "0988123388" : {
+      "name" : "Tom Cruise",
+      "password" : "1234"
+    }
+  },
+  "Foods": {
+    "10": {
+      "Name": "Wedges",
+      "Image": "https://i.ibb.co/ZWcPn3F/Wedges.jpg",
+      "Description": "",
+      "Price": "500",
+      "Discount": "0",
+      "MenuId": "02"
+    },
+    "11": {
+      "Name": "Pineapple Pizza",
+      "Image": "https://i.ibb.co/X4T8KjV/Pineapple-pizza.jpg",
+      "Description": "",
+      "Price": "500",
+      "Discount": "0",
+      "MenuId": "03"
+    },
+    "12": {
+      "Name": "Veggie Pizza",
+      "Image": "https://i.ibb.co/rtvSFgy/Veggie-Pizza.jpg",
+      "Description": "",
+      "Price": "500",
+      "Discount": "0",
+      "MenuId": "03"
+    },
+    "13": {
+      "Name": "Pepperoni Pizza",
+      "Image": "https://i.ibb.co/hdg9b9t/Pepperoni-Pizza.jpg",
+      "Description": "",
+      "Price": "500",
+      "Discount": "0",
+      "MenuId": "03"
+    },
+    "14": {
+      "Name": "Cheese Pizza",
+      "Image": "https://i.ibb.co/cxGGFGg/Cheese-pizza.jpg",
+      "Description": "",
+      "Price": "500",
+      "Discount": "0",
+      "MenuId": "03"
+    },
+    "15": {
+      "Name": "Chicken Pizza",
+      "Image": "https://i.ibb.co/3YdGQnF/Chicken-Pizza.jpg",
+      "Description": "",
+      "Price": "500",
+      "Discount": "0",
+      "MenuId": "03"
+    },
+    "16": {
+      "Name": "Veggie Pasta",
+      "Image": "https://i.ibb.co/7J7JFNg/Veggie-Pasta.jpg",
+      "Description": "",
+      "Price": "500",
+      "Discount": "0",
+      "MenuId": "04"
+    },
+    "17": {
+      "Name": "Stuffed Pasta",
+      "Image": "https://i.ibb.co/bvjvxVL/Stuffed-Pasta.jpg",
+      "Description": "",
+      "Price": "500",
+      "Discount": "0",
+      "MenuId": "04"
+    },
+    "18": {
+      "Name": "Chicken Pasta",
+      "Image": "https://i.ibb.co/RCP3Thb/Chicken-Pasta.jpg",
+      "Description": "",
+      "Price": "500",
+      "Discount": "0",
+      "MenuId": "04"
+    },
+    "19": {
+      "Name": "Beef Pasta",
+      "Image": "https://i.ibb.co/ZKnZWpn/Beef-Pasta.jpg",
+      "Description": "",
+      "Price": "500",
+      "Discount": "0",
+      "MenuId": "04"
+    },
+    "20": {
+      "Name": "Cheesy Pasta",
+      "Image": "https://i.ibb.co/xHPjhYJ/Cheesy-Pasta.jpg",
+      "Description": "",
+      "Price": "500",
+      "Discount": "0",
+      "MenuId": "04"
+    },
+    "21": {
+      "Name": "Veggie Soup",
+      "Image": "https://i.ibb.co/JmWkj34/Veggie-Soup.jpg",
+      "Description": "",
+      "Price": "500",
+      "Discount": "0",
+      "MenuId": "05"
+    },
+    "22": {
+      "Name": "Prawn Soup",
+      "Image": "https://i.ibb.co/Hq4y2t9/Prawn-Soup.jpg",
+      "Description": "",
+      "Price": "500",
+      "Discount": "0",
+      "MenuId": "05"
+    },
+    "23": {
+      "Name": "Plain Soup",
+      "Image": "https://i.ibb.co/Km2Lyhm/Plain-Soup.jpg",
+      "Description": "",
+      "Price": "500",
+      "Discount": "0",
+      "MenuId": "05"
+    },
+    "24": {
+      "Name": "Corn Soup",
+      "Image": "https://i.ibb.co/GPvWdRk/Corn-Soup.jpg",
+      "Description": "",
+      "Price": "500",
+      "Discount": "0",
+      "MenuId": "05"
+    },
+    "25": {
+      "Name": "Mushroom Soup",
+      "Image": "https://i.ibb.co/zm88sf9/Mushroom-Soup.jpg",
+      "Description": "",
+      "Price": "500",
+      "Discount": "0",
+      "MenuId": "05"
+    },
+    "01": {
+      "Name": "Beef Burger",
+      "Image": "https://i.ibb.co/W6nRW5D/Beef-Burger.jpg",
+      "Description": "",
+      "Price": "500",
+      "Discount": "0",
+      "MenuId": "01"
+    },
+    "02": {
+      "Name": "Cheesy Burger",
+      "Image": "https://i.ibb.co/Qd5cDfh/Cheesy-Burger.jpg",
+      "Description": "",
+      "Price": "500",
+      "Discount": "0",
+      "MenuId": "01"
+    },
+    "03": {
+      "Name": "Chicken Burger",
+      "Image": "https://i.ibb.co/gT9B56B/Chicken-Burger.jpg",
+      "Description": "",
+      "Price": "500",
+      "Discount": "0",
+      "MenuId": "01"
+    },
+    "04": {
+      "Name": "Turkey Burger",
+      "Image": "https://i.ibb.co/zRk5Dgg/Turkey-Burger.jpg",
+      "Description": "",
+      "Price": "500",
+      "Discount": "0",
+      "MenuId": "01"
+    },
+    "05": {
+      "Name": "Veggie Burger",
+      "Image": "https://i.ibb.co/JcJFG5g/Veggie-Burger.jpg",
+      "Description": "",
+      "Price": "500",
+      "Discount": "0",
+      "MenuId": "01"
+    },
+    "06": {
+      "Name": "Cheesy Fries",
+      "Image": "https://i.ibb.co/BKrpB0P/Cheesy-Fries.jpg",
+      "Description": "",
+      "Price": "500",
+      "Discount": "0",
+      "MenuId": "02"
+    },
+    "07": {
+      "Name": "Curly Fries",
+      "Image": "https://i.ibb.co/fqn43MG/Curly-fries.jpg",
+      "Description": "",
+      "Price": "500",
+      "Discount": "0",
+      "MenuId": "02"
+    },
+    "08": {
+      "Name": "Mild Fries",
+      "Image": "https://i.ibb.co/F6f7n3b/mild-fries.jpg",
+      "Description": "",
+      "Price": "500",
+      "Discount": "0",
+      "MenuId": "02"
+    },
+    "09": {
+      "Name": "Spicy Fries",
+      "Image": "https://i.ibb.co/7ykdJ7K/Spicy-fries.jpg",
+      "Description": "",
+      "Price": "500",
+      "Discount": "0",
+      "MenuId": "02"
+    }
+  }
+}
